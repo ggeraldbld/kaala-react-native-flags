@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flags",
+  "name": "kaala-react-native-flags",
   "version": "1.0.0",
   "description": ":flag: Fun with flags!",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frostney/react-native-flags.git"
+    "url": "git+https://github.com/ggeraldbld/kaala-react-native-flags.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frostney/react-native-flags/issues"
+    "url": "https://github.com/ggeraldbld/kaala-react-native-flags/issues"
   },
-  "homepage": "https://github.com/frostney/react-native-flags#readme"
+  "homepage": "https://github.com/ggeraldbld/kaala-react-native-flags#readme"
 }

@@ -1,13 +1,13 @@
-# react-native-flags
+# kaala-react-native-flags
 Fun with flags (in React Native)!
 
 Display flags in React Native with the help of [GoSquared](https://www.gosquared.com) - [2600 Flag Icon Set](https://www.gosquared.com/resources/flag-icons/).
 
-![](https://github.com/frostney/react-native-flags/blob/master/docs/flags.png)
+![](https://github.com/ggeraldbld/kaala-react-native-flags/blob/master/docs/flags.png)
 
 ### Usage
 ```javascript
-import Flag from 'react-native-flags';
+import Flag from 'kaala-react-native-flags';
 
 const JustAFlag = () =>
   <Flag
